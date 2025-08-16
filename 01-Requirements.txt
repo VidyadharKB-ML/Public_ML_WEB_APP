@@ -1,21 +1,6 @@
-numpy==1.21.4                  --
+numpy==1.21.4
+pickle-mixin==1.0.2
+streamlit==1.2.0
+streamlit-option-menu==0.3.2
+scikit-learn==1.0.1
 
-pickle-mixin==1.0.2            -- Used for saving the trained model and loading it for prediction.
-
-streamlit==1.2.0               --Used for User Interface(UI) for web app
-
-streamlit-option-menu==0.3.2   --Used for navigation
-
-scikit-learn==1.0.1            --Building ML model
-
-
-
-
-
-3 model files 
-
-Diabetes model
-Heart dieses model
-Parkinson's model
-
-MDPS-Multiple Dieses Prediction System Public 
